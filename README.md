@@ -1,1 +1,1 @@
-Playground for studying the Rust programming language.
+Reference: https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html
