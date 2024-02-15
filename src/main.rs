@@ -20,5 +20,5 @@ fn placeholder_example() {
     let x = 5;
     let y = 10;
 
-    println!("x = {x} and y + 2 = {}", y + 2);
+    println!("x = {x} and y + 2 = {}, and x + y = {}", y + 2, x + y);
 }
