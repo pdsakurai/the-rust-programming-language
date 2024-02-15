@@ -12,4 +12,13 @@ fn main() {
         .expect("Failed to read line");
 
     println!("You guessed: {guess}");
+
+    placeholder_example();
+}
+
+fn placeholder_example() {
+    let x = 5;
+    let y = 10;
+
+    println!("x = {x} and y + 2 = {}", y + 2);
 }
